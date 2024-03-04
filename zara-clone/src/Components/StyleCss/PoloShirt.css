@@ -1,0 +1,20 @@
+.main_poloShirt_tri{
+    width: 100vh;
+    margin: auto;
+}
+.render_data_polo{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 14px;
+    width: 100%;
+    margin: auto;
+}
+
+.polo_img{
+    width: 100%;
+}
+
+.span_div{
+    display: flex;
+    justify-content: space-around;
+}
