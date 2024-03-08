@@ -1,0 +1,12 @@
+.scrollDetails ::-webkit-scrollbar{
+    width: 4px;
+}
+.scrollDetails ::-webkit-scrollbar-track{
+    background: grey;
+}
+.scrollDetails ::-webkit-scrollbar-thumb{
+    background: black;
+}
+.scrollDetails ::-webkit-scrollbar-thumb:hover{
+    background: #555;
+}
